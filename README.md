@@ -25,4 +25,4 @@ This project is licensed under the GNU Affero General Public License v3.0. Pleas
 
 ## Trademark Policy
 
-Please refer to our [Trademark Policy](TRADEMARK_POLICY.md) for guidelines on the use of our trademarks.
+Please refer to our [Trademark Policy](TRADEMARKS.md) for guidelines on the use of our trademarks.
