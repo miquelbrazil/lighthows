@@ -14,10 +14,10 @@ LightHOWS was inspired by my curiosity about our trash collection schedule[...]
 
 This project is copyrighted by:
 
-- Miquel Brazil (c) [2024]
-- Brazilliance, LLC (c) [2024]
-- WoneCo, LLC (c) [2024]
-- Full Black Devs, LLC (c) [2024]
+- Miquel Brazil (c) 2024
+- Brazilliance, LLC (c) 2024
+- WoneCo, LLC (c) 2024
+- Full Black Devs, LLC (c) 2024
 
 ## License
 
